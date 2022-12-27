@@ -1,0 +1,1 @@
+to luch the project go to the "src" file then "main" file and select the "Main.java" file to start the project
